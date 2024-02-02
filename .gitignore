@@ -1,0 +1,9 @@
+# Build
+node_modules
+pkg
+target
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.DS_Store

@@ -1,0 +1,38 @@
+:root {
+  font-family: system-ui;
+  color: #1E2127;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  max-width: 30rem;
+  margin: auto;
+  justify-content: center;
+}
+.upload {
+  padding: 1rem;
+  margin-bottom: 1rem;
+  background-color: #edeff4;
+  border-radius: 0.5rem;
+}
+label {
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+}
+button {
+  padding: 0.5rem 1rem;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+button:disabled {
+  cursor: not-allowed;
+  background-color: #cccccc;
+}
+button:active {
+  background-color: #45a049;
+}
