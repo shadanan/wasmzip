@@ -1,4 +1,5 @@
 # Build
+.vite
 node_modules
 pkg
 target

@@ -6,9 +6,9 @@ Vite app that compresses a file directly in the browser using WebAssembly.
 
 1. Install language frameworks:
 
-   - ![Rust](https://www.rust-lang.org/)
-   - ![Node.js](https://nodejs.org/)
-   - ![npm](https://www.npmjs.com/)
+   - [Rust](https://www.rust-lang.org/)
+   - [Node.js](https://nodejs.org/)
+   - [npm](https://www.npmjs.com/)
 
 1. Clone the repo, and install the dependencies:
 
